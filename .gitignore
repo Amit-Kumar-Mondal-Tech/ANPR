@@ -1,3 +1,9 @@
+# Project Specific
+Tensorflow/workspace/annotations/test.record
+Tensorflow/workspace/annotations/train.record
+Tensorflow/workspace/images/*
+Tensorflow/workspace/models/my_ssd_mobnet/train/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
